@@ -1,0 +1,5 @@
+if $scheme is 'Gemini'
+  :is(.main-inner .post-block, .header, .sidebar-inner)
+    @css { --content-bg-color-transparent: color-mix(in srgb, var(--content-bg-color) 80%, transparent); }
+    background-color: var(--content-bg-color-transparent, var(--content-bg-color))
+    backdrop-filter: blur(8px)
