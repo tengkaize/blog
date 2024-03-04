@@ -24,7 +24,7 @@
     "hexo-renderer-pandoc": "^0.4.0",
     "hexo-renderer-stylus": "^3.0.1",
     "hexo-server": "^3.0.0",
-    "hexo-theme-next": "^8.19.1"
+    "hexo-theme-next": "^8.19.2"
   },
   "packageManager": "pnpm@8.15.3+sha256.fc4a49bd609550a41e14d20efbce802a4b892aa4cac877322de2f0924f122991"
 }
